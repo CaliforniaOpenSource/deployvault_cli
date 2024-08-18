@@ -1,2 +1,0 @@
-[console_scripts]
-deployvault_cli = deployvault_cli.cli:main
