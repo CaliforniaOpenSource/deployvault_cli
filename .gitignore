@@ -1,4 +1,5 @@
 tests/tests.txt
 src/deployvault_cli.egg-info
 src/your_package_name.egg-info
-deployvault_test/
+src/deployvault_cli/__pycache__
+deployvault_test/*
