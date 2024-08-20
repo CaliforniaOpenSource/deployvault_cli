@@ -1,0 +1,9 @@
+- Add Username and email saving
+
+
+-SUPABASE - difficult wake-up from deployvault cli!
+- Add default repo endpoint saving
+- Add upload
+	- Create "config" command to set up
+
+- Ask only password for installation
